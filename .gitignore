@@ -1,0 +1,13 @@
+.env
+.env.local
+*.key
+
+__pycache__/
+*.pyc
+venv/
+.venv/
+*.egg-info/
+
+.vscode/
+.idea/
+.DS_Store
